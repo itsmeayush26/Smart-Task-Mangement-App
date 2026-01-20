@@ -2,6 +2,16 @@
 
 A full-stack MERN application for efficient task management with user authentication, advanced filtering, and analytics dashboard.
 
+## Project URLs
+Frontend:
+https://smart-task-mangement-app.vercel.app
+
+Backend:
+https://smart-task-mangement-app.onrender.com
+
+GitHub Repository:
+https://github.com/itsmeayush26/Smart-Task-Mangement-App
+
 ## 📋 Table of Contents
 - [Features](#features)
 - [Tech Stack](#tech-stack)
