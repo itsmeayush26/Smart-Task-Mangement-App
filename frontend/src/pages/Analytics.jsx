@@ -114,7 +114,7 @@ const Analytics = () => {
                     <div
                       className={`h-2 rounded ${
                         item._id === "High"
-                          ? "bg-rose-400"
+                          ? "bg-yellow-400"
                           : item._id === "Medium"
                             ? "bg-lime-400"
                             : "bg-cyan-400"

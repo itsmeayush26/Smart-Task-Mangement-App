@@ -175,7 +175,7 @@ Frontend will run on `http://localhost:5173`
 ```env
 PORT=5000
 NODE_ENV=development
-MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/taskmanagement?retryWrites=true&w=majority
+MONGODB_URI=<....your_mongo_url>
 JWT_SECRET=your_super_secret_jwt_key_change_in_production
 JWT_EXPIRE=7d
 CLIENT_URL=http://localhost:5173
@@ -321,14 +321,7 @@ Authorization: Bearer <token>
 
 ## 🌐 Deployment
 
-### Backend Deployment (Railway/Render)
-
-#### Railway
-1. Create account on [Railway](https://railway.app)
-2. Create new project
-3. Connect GitHub repository
-4. Add environment variables
-5. Deploy
+### Backend Deployment (Render)
 
 #### Render
 1. Create account on [Render](https://render.com)
@@ -352,9 +345,9 @@ Authorization: Bearer <token>
 5. Deploy
 
 ### Deployment URLs
-- **Backend:** `https://your-backend.railway.app`
-- **Frontend:** `https://your-app.vercel.app`
-- **GitHub:** `https://github.com/yourusername/smart-task-management`
+- **Backend:** `https://smart-task-mangement-app.onrender.com`
+- **Frontend:** `https://smart-task-mangement-app.vercel.app`
+- **GitHub:** `https://github.com/itsmeayush26/Smart-Task-Mangement-App`
 
 ## 📦 Postman Collection
 

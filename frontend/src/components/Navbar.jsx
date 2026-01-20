@@ -38,7 +38,7 @@ const Navbar = () => {
             <span className="text-3xl font-bold text-white hover:text-gray-200 transition-colors duration-200">
               TaskManager
             </span>
-            ze
+            
           </Link>
 
           {/* RIGHT – DESKTOP normal for large screen si */}
