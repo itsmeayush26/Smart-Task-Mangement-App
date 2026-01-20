@@ -355,7 +355,7 @@ Import the Postman collection to test all API endpoints:
 
 1. Open Postman
 2. Click Import
-3. Import the `Smart_Task_API.postman_collection.json` file
+3. Import the `Task_Manager.postman_collection.json` file
 4. Set environment variables:
    - `base_url`: Your API URL
    - `token`: JWT token from login/register
@@ -441,7 +441,7 @@ This project is licensed under the MIT License.
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [])
+- GitHub: []
 - Email: your.email@example.com
 
 ## 🙏 Acknowledgments
@@ -451,6 +451,14 @@ This project is licensed under the MIT License.
 - React documentation
 - Tailwind CSS
 - JWT.io
+
+## screenshots of app
+
+![alt text](<Screenshot 2026-01-20 201823.png>)
+![alt text](<Screenshot 2026-01-20 201722.png>)
+![alt text](<Screenshot 2026-01-20 201732.png>)
+![alt text](<Screenshot 2026-01-20 201745.png>)
+![alt text](<Screenshot 2026-01-20 201810.png>)
 
 ---
 
