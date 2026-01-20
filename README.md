@@ -464,12 +464,14 @@ This project is licensed under the MIT License.
 
 ## screenshots of app
 
-![alt text](<Screenshot 2026-01-20 201823.png>)
-![alt text](<Screenshot 2026-01-20 201722.png>)
-![alt text](<Screenshot 2026-01-20 201732.png>)
-![alt text](<Screenshot 2026-01-20 201745.png>)
-![alt text](<Screenshot 2026-01-20 201810.png>)
+![Register Page](frontend/src/assets/login.png)
 
----
+![Dashboard](frontend/src/assets/dashboard.png)
+
+![Task List](frontend/src/assets/newTask.png)
+
+![Analytics Dashboard](frontend/src/assets/analytics.png)
+
+![Mobile View](frontend/src/assets/mobileView.png)
 
 **Note:** This project is created for academic purposes and portfolio demonstration. Feel free to use it as a learning resource or template for your own projects.
